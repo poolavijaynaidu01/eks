@@ -21,6 +21,7 @@ Only 'yes' will be accepted to approve.
 
 Enter a value: yes
 By default, the resources are targeted to be created in us-west-2, so bear that in mind if you go looking for the resources created in your console. This apply step will create many of the resources you need to get up and running initially, including:
+
 •	VPC
 •	IAM roles
 •	Security groups
